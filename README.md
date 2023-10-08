@@ -2,6 +2,8 @@
  
 ¿Cómo moverte por un terreno en Unity con un personaje?, sigue estos pasos:
 
+<img width="848" alt="PantallaTerreno" src="https://github.com/KireLord/TerrenoPrototipo/assets/104163750/5140d0f6-a826-4b1f-89a1-39ff22f780c1">
+
 Crea un terreno: Utiliza el componente "Terrain" en Unity para crear un terreno en tu escena.
 
 1.Configura tu escena en Unity con modelos 3D y recursos necesarios.
